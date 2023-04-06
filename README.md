@@ -7,6 +7,8 @@ https://www.aicrowd.com/challenges/scene-understanding-for-autonomous-drone-deli
 AICrowd Repo:
 https://gitlab.aicrowd.com/aicrowd/challenges/suadd-2023/suadd23-monodepth-amazon/-/tree/main
 
+Github Repo:
+https://github.com/dallingordon/IVC_MDE
 
 # **[Scene Understanding for Autonomous Drone Delivery SUADD'23 - Mono Depth Perception](https://www.aicrowd.com/challenges/scene-understanding-for-autonomous-drone-delivery-suadd-23/problems/mono-depth-perception)** - Starter Kit
 [![Discord](https://img.shields.io/discord/565639094860775436.svg)](https://discord.gg/fNRrSvZkry)
