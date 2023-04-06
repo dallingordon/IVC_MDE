@@ -1,0 +1,8 @@
+{
+    "challenge_id": "mono-depth-perception",
+    "authors": [
+      "aicrowd-bot"
+    ],
+    "gpu": false,
+    "description": "(optional) description about your awesome model"
+}

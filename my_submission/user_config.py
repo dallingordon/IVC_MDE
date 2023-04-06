@@ -1,0 +1,3 @@
+from my_submission.random_depth_predictor import RandomDepthPredictor
+
+MyDepthModel = RandomDepthPredictor
