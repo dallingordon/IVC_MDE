@@ -1,1 +1,1 @@
-Vanilla unet: 1 channel input, silog loss
+Vanilla unet: 1 channel input, scaled silog loss
