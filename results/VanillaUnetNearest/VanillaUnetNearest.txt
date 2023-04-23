@@ -1,0 +1,4 @@
+Vanilla unet: 1 channel input, scaled silog loss, Relu on the end, nearest neighbor upsampling on final layer
+batch_size = 4
+learning_rate = 0.001
+num_epochs = 10
