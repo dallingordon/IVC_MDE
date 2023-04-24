@@ -2,3 +2,4 @@ Vanilla unet: 1 channel input, scaled silog loss
 batch_size = 4
 learning_rate = 0.0001
 num_epochs = 10
+Validation Loss: 20.677
